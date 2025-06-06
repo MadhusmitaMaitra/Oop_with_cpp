@@ -1,6 +1,6 @@
 💻 C++ OOP Concepts – Practice Repository
 
-This repository contains a collection of C++ programs that demonstrate core **Object-Oriented Programming (OOP)** concepts. These programs were developed as part of my coursework in **Semester 2 of B.Sc. Computer Science**
+This repository contains a collection of C++ programs that demonstrate core **Object-Oriented Programming (OOP)** concepts. These programs were developed as part of my coursework in **Semester 2 of B.Sc. Computer Science**.
 
 🔍 Topics Covered
 
